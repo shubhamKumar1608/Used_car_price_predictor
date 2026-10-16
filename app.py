@@ -140,5 +140,5 @@ if st.button("💰 Predict Price", type="primary", use_container_width=True):
 st.divider()
 st.caption(
     "Data: CarDekho listings · Model: Random Forest Regressor · "
-    "[Source code](https://github.com/shubhamKumar1608/used-car-price-prediction)"
+    "[Source code](https://github.com/shubhamKumar1608/Used_car_price_predictor)"
 )

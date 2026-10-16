@@ -70,8 +70,8 @@ vs 0.87 test). Linear models underfit, confirming the price relationship is non-
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/shubhamKumar1608/used-car-price-prediction.git
-cd used-car-price-prediction
+git clone https://github.com/shubhamKumar1608/Used_car_price_predictor.git
+cd Used_car_price_predictor
 
 # 2. (Optional) create a virtual environment
 python3 -m venv .venv && source .venv/bin/activate
